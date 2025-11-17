@@ -36,7 +36,7 @@ public class Person {
                 ", phone'" + phone + '\'' +
                 ", city'" + city + '\'' +
                 ", lastName'" + lastName + '\'' +
-                ", age=" + age +
+                ", age   =" + age +
                 '}';
     }
 }
