@@ -9,6 +9,8 @@ public class StepTrecker {
     // addSteps  ->  int steps ) шаги можно добавлять если указанный степс больше 0
     // hashReachedGoal -> (достиг ли цели) true/ false  определить по заданному количество шагов
     //  resetSteps -> обнуление  шагов
+    //  resetSteps -> обнуление  шагов
 
 
 }
+
