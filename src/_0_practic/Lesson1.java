@@ -8,13 +8,13 @@ public class Lesson1 {
         long lf;
         float ff;
         double fd;
-        char fc;
+        char fc;azat > 18 ){
+            System.out.println("в клуб");
+        } if
         boolean fb;
 
         int azat = 9;
-        if (azat > 18 ){
-            System.out.println("в клуб");
-        } if ((azat > 1) && (azat < 10)) {
+        if (((azat > 1) && (azat < 10)) {
             System.out.println("он школьник");
         }
     }
