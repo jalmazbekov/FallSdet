@@ -6,6 +6,6 @@ public class Fdcwsx
 {
     public static void main(String[] args) {
 
-        List <String>
+
     }
 }

@@ -1,14 +1,14 @@
 package Ramen;
+import javax.swing.*;
 
 public class CycleWhile {
     public static void main(String[] args) {
-     int i = 1;
-     while (i <= 10){
+        JFrame okno = new JFrame();     // создаём окно
+        okno.setSize(200, 100);         // размер окна
 
-         System.out.println(i);
-         i++;
+        JLabel text = new JLabel("Привет!", SwingConstants.CENTER); // текст
 
-     }
-
+        okno.add(text);                 // добавляем текст в окно
+        okno.setVisible(true);          // показать окно
     }
 }
