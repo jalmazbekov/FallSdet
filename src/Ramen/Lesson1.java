@@ -42,5 +42,14 @@ public class Lesson1 {
 //            System.out.println("Аяна");
 //        }
 
+
+        String name = "almazbekov";
+        System.out.println(name);
+
+        name = " fvsdad";
+        System.out.println(name);
+
+
+
     }
 }
