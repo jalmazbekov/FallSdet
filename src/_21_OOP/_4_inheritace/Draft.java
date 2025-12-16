@@ -1,16 +1,25 @@
-package _21_OOP.Cons2;
+package _21_OOP._4_inheritace;
 
-public class Cat {
+public class Draft {
     String name;
     int age;
-    public Cat(String name,int age) {
+
+    public Draft(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
+    public void eat() {
+
+    }
+
+   void sleep() {
+
+    }
+
     @Override
     public String toString() {
-        return "Cat{" +
+        return "Draft{" +
                 "age=" + age +
                 ", name='" + name + '\'' +
                 '}';

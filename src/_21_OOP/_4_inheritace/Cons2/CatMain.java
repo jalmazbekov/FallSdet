@@ -1,4 +1,4 @@
-package _21_OOP.Cons2;
+package _21_OOP._4_inheritace.Cons2;
 
 public class CatMain {
     public static void main(String[] args) {

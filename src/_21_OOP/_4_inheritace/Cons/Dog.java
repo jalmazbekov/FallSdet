@@ -1,4 +1,4 @@
-package _21_OOP.Cons;
+package _21_OOP._4_inheritace.Cons;
 
 public class Dog {
     String name;

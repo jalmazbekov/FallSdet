@@ -1,7 +1,10 @@
-package _0_practic;
+package Ramen;
 
-public class Lesson1 {
+public class Task99 {
     public static void main(String[] args) {
+
+
+
 
     }
 }

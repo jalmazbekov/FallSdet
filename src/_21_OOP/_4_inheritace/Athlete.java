@@ -15,5 +15,6 @@ public class Athlete {
 
     public String info(String name,int age){
         return "name:"+name+"age:"+age;
+
     }
 }
