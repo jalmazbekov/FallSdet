@@ -10,6 +10,7 @@ public class MainAnimal {
         dog.sleep();
 
 
+
         Cat cat = new Cat("Koтик","white",2);
         System.out.println(cat);
         int time = 22;
