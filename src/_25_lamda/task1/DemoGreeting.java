@@ -19,14 +19,14 @@
               System.out.println(math1.operator(88,66));
               System.out.println(math1.operator(35,93));
 
-            System.out.println("-------");
+                System.out.println("-------");
 
-                StringCheck print = input -> input.length() > 5;
-               System.out.println(print.check("hjdd"));
-            System.out.println(print.check("букв"));
-            System.out.println(print.check("инкасатор"));
-            System.out.println(print.check("наследлование"));
-            System.out.println(print.check("hjddвв"));
+             StringCheck print = input -> input.length() > 5;
+             System.out.println(print.check("hjdd"));
+                System.out.println(print.check("букв"));
+                System.out.println(print.check("инкасатор"));
+              System.out.println(print.check("наследлование"));
+              System.out.println(print.check("hjddвв"));
 
 
 
